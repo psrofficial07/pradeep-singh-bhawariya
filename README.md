@@ -1,9 +1,11 @@
-# Pradeep Singh Bhawariya — Executive Recruiter Portfolio v3
+# Pradeep Singh Bhawariya — Executive Recruiter Portfolio v4
 
-A premium, recruiter-first portfolio redesigned for senior hiring managers, CTOs and enterprise technology leaders.
+A premium, recruiter-first portfolio with a richer editorial UI: oversized typography, layered product-style visuals, floating metrics and enterprise case-study cards.
 
 ## Design direction
-- Editorial / executive visual language rather than neon/cyberpunk
+- Editorial / executive visual language with a richer product-portfolio composition
+- Oversized display typography paired with a serif accent font
+- Layered hero visual inspired by premium presentation / product portfolio layouts, but built specifically for enterprise engineering
 - Generous whitespace and strong typography hierarchy
 - Case studies use expandable detail sections to avoid information overload
 - Enterprise architecture is visualized as clear layers: identity → services → events → data → platform
