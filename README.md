@@ -1,18 +1,18 @@
-# Pradeep Singh Bhawariya — Enterprise Recruiter Portfolio
+# Pradeep Singh Bhawariya — Executive Recruiter Portfolio v3
 
-A recruiter-first GitHub Pages portfolio focused on senior Java/full-stack enterprise engineering.
+A premium, recruiter-first portfolio redesigned for senior hiring managers, CTOs and enterprise technology leaders.
 
-## Highlights
-- Detailed DHL, Cisco, Central Bank of India and Silicon India project case studies
-- Explicit explanation of OAuth, SSO, Spring Security, entitlements and API security boundaries
-- Separate AI story for GitHub Copilot vs AI-driven telemetry/route optimization
-- Enterprise architecture themes: microservices, event-driven processing, APIs, containers, CI/CD, observability and data/search
-- 2030–2050 leadership vision clearly separated from past/current experience
-- Downloadable CV, email, WhatsApp, LinkedIn and GitHub contact paths
-- ProfilePage structured data, canonical URL, sitemap and robots.txt
+## Design direction
+- Editorial / executive visual language rather than neon/cyberpunk
+- Generous whitespace and strong typography hierarchy
+- Case studies use expandable detail sections to avoid information overload
+- Enterprise architecture is visualized as clear layers: identity → services → events → data → platform
+- AI and security are separated into documented project use vs forward technology direction
+- High-priority actions: CV, email, WhatsApp and LinkedIn
+- Responsive and framework-free
 
 ## Deploy
-Repository suggested:
+Repository:
 `psrofficial07.github.io/pradeep-singh-bhawariya/`
 
-Copy the contents of this folder into the repository root and enable GitHub Pages from the repository's Pages settings.
+Copy the contents into the repository root and enable GitHub Pages.
