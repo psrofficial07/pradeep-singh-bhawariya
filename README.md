@@ -1,20 +1,21 @@
-# Pradeep Singh Bhawariya — Executive Recruiter Portfolio v4
+# Pradeep Singh Bhawariya — Executive Recruiter Portfolio v5
 
-A premium, recruiter-first portfolio with a richer editorial UI: oversized typography, layered product-style visuals, floating metrics and enterprise case-study cards.
+Premium recruiter-first GitHub Pages portfolio for a Senior Software Engineer focused on Java, Spring Boot, full-stack engineering, distributed systems, enterprise security, cloud-native delivery, and AI-enabled engineering.
 
-## Design direction
-- Editorial / executive visual language with a richer product-portfolio composition
-- Oversized display typography paired with a serif accent font
-- Layered hero visual inspired by premium presentation / product portfolio layouts, but built specifically for enterprise engineering
-- Generous whitespace and strong typography hierarchy
-- Case studies use expandable detail sections to avoid information overload
-- Enterprise architecture is visualized as clear layers: identity → services → events → data → platform
-- AI and security are separated into documented project use vs forward technology direction
-- High-priority actions: CV, email, WhatsApp and LinkedIn
-- Responsive and framework-free
+## v5 updates
+- Larger, more readable typography across navigation, body copy, project details, architecture cards, and technical sections.
+- More standard US/UK market terminology: production-grade, distributed systems, technical architecture, technical ownership, cloud-native delivery, observability, and AI-enabled engineering.
+- Hero positioning: Senior Software Engineer · Java / Spring Boot · Full Stack · 9+ years.
+- Experience and project sections emphasize ownership, scale, architecture, and measurable outcomes.
+- Rich visual/editorial treatment retained while improving recruiter scanning and readability.
+- Original CV facts and documented project experience remain the content foundation.
 
-## Deploy
-Repository:
-`psrofficial07.github.io/pradeep-singh-bhawariya/`
+## GitHub Pages
+Recommended repository: pradeep-singh-bhawariya
+Recommended URL: https://psrofficial07.github.io/pradeep-singh-bhawariya/
 
-Copy the contents into the repository root and enable GitHub Pages.
+## Contact
+Email: pradeepsb094@gmail.com
+LinkedIn: https://www.linkedin.com/in/pradeepsingh80/
+GitHub: https://github.com/psrofficial07
+WhatsApp: https://wa.me/917737326539
